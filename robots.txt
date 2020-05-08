@@ -1,1 +1,1 @@
-Sitemap: https://kldarek.github.io/skok/sitemap.xml
+Sitemap: https://skok.ai/sitemap.xml
