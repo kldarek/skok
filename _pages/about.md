@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+My name is Darek Kłeczek, and I like to solve practical problems with machine learning. I blog about these applications here. Sometimes, solving a practical problem requires understanding the fundamentals of machine learning. I blog here about some of the concepts that took me a while to understand.
 
 
 
