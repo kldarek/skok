@@ -8,7 +8,7 @@ My name is Darek Kłeczek, and I like to solve practical problems with machine l
 
 * Working on Intelligent Automation at P&G
 * Married, with a 3-year old daughter
-* ML | Kaggle | Kung Fu in the remaining time
+* ML / Kaggle / Kung Fu in the remaining time
 * Online educated in ML:
     * Andrew Ng / Coursera
     * Jeremy Howard, Rachel Thomas, Sylvain Gugger / Fast.ai
