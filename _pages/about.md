@@ -3,9 +3,17 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+My name is Darek Kłeczek, and I like to solve practical problems with machine learning. 
+![]({{ site.baseurl }}/images/dk6.jpg "Darek with family")
 
-My name is Darek Kłeczek, and I like to solve practical problems with machine learning. I blog about these applications here. Sometimes, solving a practical problem requires understanding the fundamentals of machine learning. I blog here about some of the concepts that took me a while to understand.
+* Working on Intelligent Automation at P&G
+* Married, with a 3-year old daughter
+* ML | Kaggle | Kung Fu in the remaining time
+* Online educated in ML:
+    * Andrew Ng / Coursera
+    * Jeremy Howard, Rachel Thomas, Sylvain Gugger / Fast.ai
+* Projects: mainly Polish NLP
+    * [Generate nursery rhymes in Polish](http://poetor.herokuapp.com/)
+    * Compare press coverage from different sources (not published yet)
+    * [Polish BERT](https://github.com/kldarek/polbert) (first publicly shared BERT model for Polish)
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
