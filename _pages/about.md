@@ -17,3 +17,6 @@ My name is Darek Kłeczek, and I like to solve practical problems with machine l
     * Compare press coverage from different sources (not published yet)
     * [Polish BERT](https://github.com/kldarek/polbert) (first publicly shared BERT model for Polish)
 
+
+Attributions:
+Favicon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
