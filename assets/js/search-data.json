@@ -51,7 +51,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "My name is Darek Kłeczek, and I like to solve practical problems with machine learning. . Working on Intelligent Automation at P&amp;G | Married, with a 3-year old daughter | ML / Kaggle / Kung Fu in the remaining time | Online educated in ML: Andrew Ng / Coursera | Jeremy Howard, Rachel Thomas, Sylvain Gugger / Fast.ai | . | Projects: mainly Polish NLP Generate nursery rhymes in Polish | Compare press coverage from different sources (not published yet) | Polish BERT (first publicly shared BERT model for Polish) | . | . Attributions: Favicon made by Freepik from www.flaticon.com .",
+          "content": "My name is Darek Kłeczek, and I like to solve practical problems with machine learning. . Working on Intelligent Automation at P&amp;G | Married, with a 3-year old daughter | ML / Kaggle / Kung Fu in the remaining time | Online educated in ML: Andrew Ng / Coursera | Jeremy Howard, Rachel Thomas, Sylvain Gugger / Fast.ai | . | Projects: mainly Polish NLP Generate nursery rhymes in Polish | Compare press coverage from different sources (not published yet) | Polish BERT (first publicly shared BERT model for Polish) | PolEval 2020 - solutions to 3 out of 4 competition tasks (article) | Polish NLP Meetup Group | . | . Attributions: Favicon made by Freepik from www.flaticon.com .",
           "url": "https://skok.ai/about/",
           "relUrl": "/about/",
           "date": ""
