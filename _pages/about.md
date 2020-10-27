@@ -16,6 +16,8 @@ My name is Darek Kłeczek, and I like to solve practical problems with machine l
     * [Generate nursery rhymes in Polish](http://poetor.herokuapp.com/)
     * Compare press coverage from different sources (not published yet)
     * [Polish BERT](https://github.com/kldarek/polbert) (first publicly shared BERT model for Polish)
+    * PolEval 2020 - solutions to 3 out of 4 competition tasks ([article](http://poleval.pl/files/poleval2020.pdf#page=79))
+    * [Polish NLP Meetup Group](https://www.meetup.com/Polish-Natural-Language-Processing-Meetup-Group/)
 
 
 Attributions:
