@@ -1,4 +1,10 @@
-# The Future of Machine Learning Tools
+---
+toc: false
+layout: post
+description: My take on trends in machine learning tooling and predictions for the future. 
+categories: [machine learning, tools]
+title: The Future of Machine Learning Tools
+---
 
 There&#39;s an important choice all of us need to make regularly, and that is where to spend our time and energy. Especially in a field as broad as machine learning, it might be reasonable to focus on an area that has a future potential. I&#39;ve prepared a few predictions for myself and would like to share them broadly. I hope some of you will challenge my thinking and improve it!
 
