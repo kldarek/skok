@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://skok.ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://skok.ai/" rel="alternate" type="text/html" /><updated>2021-12-06T17:27:11-06:00</updated><id>https://skok.ai/feed.xml</id><title type="html">skok.ai</title><subtitle>Developing Intelligent Applications</subtitle><entry><title type="html">The Future Of Machine Learning Tools</title><link href="https://skok.ai/2021/12/06/the-future-of-machine-learning-tools.html" rel="alternate" type="text/html" title="The Future Of Machine Learning Tools" /><published>2021-12-06T00:00:00-06:00</published><updated>2021-12-06T00:00:00-06:00</updated><id>https://skok.ai/2021/12/06/the-future-of-machine-learning-tools</id><content type="html" xml:base="https://skok.ai/2021/12/06/the-future-of-machine-learning-tools.html">&lt;h1 id=&quot;the-future-of-machine-learning-tools&quot;&gt;The Future of Machine Learning Tools&lt;/h1&gt;
-
-&lt;p&gt;There's an important choice all of us need to make regularly, and that is where to spend our time and energy. Especially in a field as broad as machine learning, it might be reasonable to focus on an area that has a future potential. I've prepared a few predictions for myself and would like to share them broadly. I hope some of you will challenge my thinking and improve it!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://skok.ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://skok.ai/" rel="alternate" type="text/html" /><updated>2021-12-06T17:32:09-06:00</updated><id>https://skok.ai/feed.xml</id><title type="html">skok.ai</title><subtitle>Developing Intelligent Applications</subtitle><entry><title type="html">The Future of Machine Learning Tools</title><link href="https://skok.ai/machine%20learning/tools/2021/12/06/the-future-of-machine-learning-tools.html" rel="alternate" type="text/html" title="The Future of Machine Learning Tools" /><published>2021-12-06T00:00:00-06:00</published><updated>2021-12-06T00:00:00-06:00</updated><id>https://skok.ai/machine%20learning/tools/2021/12/06/the-future-of-machine-learning-tools</id><content type="html" xml:base="https://skok.ai/machine%20learning/tools/2021/12/06/the-future-of-machine-learning-tools.html">&lt;p&gt;There's an important choice all of us need to make regularly, and that is where to spend our time and energy. Especially in a field as broad as machine learning, it might be reasonable to focus on an area that has a future potential. I've prepared a few predictions for myself and would like to share them broadly. I hope some of you will challenge my thinking and improve it!&lt;/p&gt;
 
 &lt;p&gt;I've been observing machine learning from two perspectives. One is working in a traditional enterprise and looking for ways we can transform business processes to benefit from machine learning capabilities. The second is being a data science practitioner: collecting and cleaning data, training models and tinkering with their architectures. In both of these roles, I've made some observations that I will share and then try to spot the trends and extrapolate them.&lt;/p&gt;
 
@@ -65,7 +63,7 @@
   &lt;li&gt;&lt;strong&gt;Dedicated apps for specific commodity tasks&lt;/strong&gt;. A lot of models will become a commodity. Whenever multiple companies try to solve a specific problem with data, there will be a supplier attempting to provide a general solution to that problem. It will collect data, build and test models, and offer a packaged solution solving problems such as interpreting invoices, understanding emails, analyzing product images etc.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;What do you think about these predictions? It's very likely I'm partially or completely wrong, and would love to hear different perspectives.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Future of Machine Learning Tools</summary></entry><entry><title type="html">Topic Modeling in Python</title><link href="https://skok.ai/2021/05/27/Topic-Models-Introduction.html" rel="alternate" type="text/html" title="Topic Modeling in Python" /><published>2021-05-27T00:00:00-05:00</published><updated>2021-05-27T00:00:00-05:00</updated><id>https://skok.ai/2021/05/27/Topic-Models-Introduction</id><content type="html" xml:base="https://skok.ai/2021/05/27/Topic-Models-Introduction.html">&lt;!--
+&lt;p&gt;What do you think about these predictions? It's very likely I'm partially or completely wrong, and would love to hear different perspectives.&lt;/p&gt;</content><author><name></name></author><summary type="html">There's an important choice all of us need to make regularly, and that is where to spend our time and energy. Especially in a field as broad as machine learning, it might be reasonable to focus on an area that has a future potential. I've prepared a few predictions for myself and would like to share them broadly. I hope some of you will challenge my thinking and improve it!</summary></entry><entry><title type="html">Topic Modeling in Python</title><link href="https://skok.ai/2021/05/27/Topic-Models-Introduction.html" rel="alternate" type="text/html" title="Topic Modeling in Python" /><published>2021-05-27T00:00:00-05:00</published><updated>2021-05-27T00:00:00-05:00</updated><id>https://skok.ai/2021/05/27/Topic-Models-Introduction</id><content type="html" xml:base="https://skok.ai/2021/05/27/Topic-Models-Introduction.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -541,10 +539,10 @@
 
 
 
-&lt;div id=&quot;30d7b671-f3b1-4f85-9f6d-35e66ada25d1&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;7162ac22-d293-4b24-b08c-d18ddc703944&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#30d7b671-f3b1-4f85-9f6d-35e66ada25d1');
+var element = $('#7162ac22-d293-4b24-b08c-d18ddc703944');
 
 (function(root) {
   function now() {
@@ -865,10 +863,10 @@ var element = $('#30d7b671-f3b1-4f85-9f6d-35e66ada25d1');
 
 
 
-&lt;div id=&quot;628fdc91-84fa-4a29-8be1-8b4418814890&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;a79ec466-4e44-4260-9638-19ef3642f388&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#628fdc91-84fa-4a29-8be1-8b4418814890');
+var element = $('#a79ec466-4e44-4260-9638-19ef3642f388');
 (function(root) {
   function embed_document(root) {
     
@@ -1467,10 +1465,10 @@ The waist is too high and the bottom too long. I could get away with it but I li
 
 
 
-&lt;div id=&quot;042c4fa2-f7fc-4974-a11c-903c82e1d792&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;ffe9dc00-e108-40ea-8d50-486ecea9eb6a&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#042c4fa2-f7fc-4974-a11c-903c82e1d792');
+var element = $('#ffe9dc00-e108-40ea-8d50-486ecea9eb6a');
 
 (function(root) {
   function now() {
@@ -1791,10 +1789,10 @@ var element = $('#042c4fa2-f7fc-4974-a11c-903c82e1d792');
 
 
 
-&lt;div id=&quot;bcd353f9-ec5a-4d32-98cb-39e1afa372de&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;78460844-0f3f-4763-b921-e934ee3e3dae&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#bcd353f9-ec5a-4d32-98cb-39e1afa372de');
+var element = $('#78460844-0f3f-4763-b921-e934ee3e3dae');
 (function(root) {
   function embed_document(root) {
     
@@ -2480,10 +2478,10 @@ OpenJDK 64-Bit Server VM (build 11.0.11+9-Ubuntu-0ubuntu2.18.04, mixed mode, sha
 
 
 
-&lt;div id=&quot;8b74bc35-c0de-48f4-9a93-aa6b956bcc22&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;40ce7aea-08d8-461a-9dda-d3d84e74dd1c&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#8b74bc35-c0de-48f4-9a93-aa6b956bcc22');
+var element = $('#40ce7aea-08d8-461a-9dda-d3d84e74dd1c');
 
 (function(root) {
   function now() {
@@ -2804,10 +2802,10 @@ var element = $('#8b74bc35-c0de-48f4-9a93-aa6b956bcc22');
 
 
 
-&lt;div id=&quot;bb7e4b8a-6e52-4a62-aac9-0798eae718a7&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;c0917199-8d05-4422-8670-4b606ced8ba0&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#bb7e4b8a-6e52-4a62-aac9-0798eae718a7');
+var element = $('#c0917199-8d05-4422-8670-4b606ced8ba0');
 (function(root) {
   function embed_document(root) {
     
@@ -4170,10 +4168,10 @@ Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/def
 
 
 
-&lt;div id=&quot;107cfce5-0955-40b5-a7d3-c68b87cf5139&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;388fab1d-6111-4c96-9c1c-27eaa4e12758&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#107cfce5-0955-40b5-a7d3-c68b87cf5139');
+var element = $('#388fab1d-6111-4c96-9c1c-27eaa4e12758');
 
         (async () =&gt; {
             const url = await google.colab.kernel.proxyPort(6006, {&quot;cache&quot;: true});
