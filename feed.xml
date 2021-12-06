@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://skok.ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://skok.ai/" rel="alternate" type="text/html" /><updated>2021-05-26T23:59:22-05:00</updated><id>https://skok.ai/feed.xml</id><title type="html">skok.ai</title><subtitle>Developing Intelligent Applications</subtitle><entry><title type="html">Topic Modeling in Python</title><link href="https://skok.ai/2021/05/27/Topic-Models-Introduction.html" rel="alternate" type="text/html" title="Topic Modeling in Python" /><published>2021-05-27T00:00:00-05:00</published><updated>2021-05-27T00:00:00-05:00</updated><id>https://skok.ai/2021/05/27/Topic-Models-Introduction</id><content type="html" xml:base="https://skok.ai/2021/05/27/Topic-Models-Introduction.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://skok.ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://skok.ai/" rel="alternate" type="text/html" /><updated>2021-12-06T17:26:28-06:00</updated><id>https://skok.ai/feed.xml</id><title type="html">skok.ai</title><subtitle>Developing Intelligent Applications</subtitle><entry><title type="html">The Future Of Machine Learning Tools</title><link href="https://skok.ai/2021/12/06/the-future-of-machine-learning-tools.html" rel="alternate" type="text/html" title="The Future Of Machine Learning Tools" /><published>2021-12-06T00:00:00-06:00</published><updated>2021-12-06T00:00:00-06:00</updated><id>https://skok.ai/2021/12/06/the-future-of-machine-learning-tools</id><content type="html" xml:base="https://skok.ai/2021/12/06/the-future-of-machine-learning-tools.html">&lt;h1 id=&quot;the-future-of-machine-learning-tools&quot;&gt;The Future of Machine Learning Tools&lt;/h1&gt;
+
+&lt;p&gt;There's an important choice all of us need to make regularly, and that is where to spend our time and energy. Especially in a field as broad as machine learning, it might be reasonable to focus on an area that has a future potential. I've prepared a few predictions for myself and would like to share them broadly. I hope some of you will challenge my thinking and improve it!&lt;/p&gt;
+
+&lt;p&gt;I've been observing machine learning from two perspectives. One is working in a traditional enterprise and looking for ways we can transform business processes to benefit from machine learning capabilities. The second is being a data science practitioner: collecting and cleaning data, training models and tinkering with their architectures. In both of these roles, I've made some observations that I will share and then try to spot the trends and extrapolate them.&lt;/p&gt;
+
+&lt;h2 id=&quot;trends&quot;&gt;Trends&lt;/h2&gt;
+
+&lt;h3 id=&quot;trend-1--improving-the-ux-for-data-scientists&quot;&gt;Trend 1 – Improving the UX for data scientists&lt;/h3&gt;
+
+&lt;p&gt;The tooling for data scientists and machine learning engineers is a hot industry right now, and everyone is trying to win with better UX. You can download a powerful pretrained model with one line of code using HuggingFace Transformers, you can log your experiment metrics with one line of code using Weights &amp;amp; Biases, you can easily deploy with your cloud provider. Rather than spending your time experimenting with different features or model architectures, you can use AutoML tools like H2O. This means less time spent on writing boilerplate code, and more time spent on looking at data.&lt;/p&gt;
+
+&lt;h3 id=&quot;trend-2--more-powerful-pretrained-models-and-architectures-being-open-sourced&quot;&gt;Trend 2 – More powerful pretrained models and architectures being open sourced&lt;/h3&gt;
+
+&lt;p&gt;Big research labs keep pushing the boundaries on model sizes, training protocols and architectures. These pretrained models are often open sourced and made available &quot;for the masses&quot;. We can use them to achieve better results or solve problems with less training data. Even though the compute budgets for inference may be limiting initially, model distillation, better inference methods and cheaper compute are likely to remove that barrier soon.&lt;/p&gt;
+
+&lt;h3 id=&quot;trend-3--increasing-role-of-business-subject-matter-expert&quot;&gt;Trend 3 – Increasing role of business subject matter expert&lt;/h3&gt;
+
+&lt;p&gt;With increasing automation of machine learning workflows, the key to developing successful models shifts to having good understanding of a business problem and sufficient amount of well labeled data. This is the domain of business subject matter experts – as long as they get proper level of training to understand concepts like train/test split and performance metrics, they should be able to build well performing models without much help of a data scientist. A big number of startups try to support this trend by offering tools that hide the training cycle behind a well-designed interface, pretrain models on domain-specific datasets and support the whole lifecycle from data labeling to deployment.&lt;/p&gt;
+
+&lt;h3 id=&quot;trend-4--increasing-regulation&quot;&gt;Trend 4 – Increasing regulation&lt;/h3&gt;
+
+&lt;p&gt;Many countries either have started regulating machine learning or are advancing projects to implement regulations in the near future. We may need to frequently update datasets if they contain personal information. We will need to record our experiments and take care of reproducibility. We will also need to have good insights on potential biases encoded in our models.&lt;/p&gt;
+
+&lt;h2 id=&quot;parallels&quot;&gt;Parallels&lt;/h2&gt;
+
+&lt;p&gt;One way to make predictions is seeking parallels in history or in adjacent fields. Let's consider some of these parallels and try to compare them with machine learning.&lt;/p&gt;
+
+&lt;h3 id=&quot;comparison-1-web-programming&quot;&gt;Comparison 1: Web Programming&lt;/h3&gt;
+
+&lt;p&gt;I still remember building a simple HTML website myself many years ago… It was a nice feeling, but the website was kind of ugly. Right now, we can easily setup a nice static website with an attractive template and host it for free on Github Pages. But the bulk of work moved to complex web applications, with constantly changing frameworks, and a suite of DevOps tools to support deployment. Even though the field is quite mature now and there are some strong platforms like Wordpress, there is still plenty of work for web developers as businesses want to differentiate.&lt;/p&gt;
+
+&lt;h3 id=&quot;comparison-2-enterprise-automation&quot;&gt;Comparison 2: Enterprise Automation&lt;/h3&gt;
+
+&lt;p&gt;On the enterprise side, many companies went through a very long journey of moving from manual processes or custom automations, through adoption of ERP systems that provided reference models of business processes and offered a configurable solution to automate a bunch of business processes in an integrated way, to dedicated solutions that address specific opportunities left after implementing ERP. These dedicated solutions are either coming from external suppliers that specialized in a niche business problem, or are developed internally, often on top of automation platforms such as Pega, Salesforce or UiPath.&lt;/p&gt;
+
+&lt;h3 id=&quot;comparison-3-mobile-app-stores&quot;&gt;Comparison 3: Mobile App Stores&lt;/h3&gt;
+
+&lt;p&gt;Opening up app stores on mobile platforms like iOS or Android resulted in a large number of independent developers making business developing and selling games and apps. Over time, the field has become much more difficult for small and independent players, as big studios operate with much bigger budgets for product and marketing.&lt;/p&gt;
+
+&lt;h2 id=&quot;predictions&quot;&gt;Predictions&lt;/h2&gt;
+
+&lt;p&gt;What do these trends and parallels tell us about potential future developments? I will try to make some predictions.&lt;/p&gt;
+
+&lt;h3 id=&quot;prediction-1-datasets&quot;&gt;Prediction 1: Datasets&lt;/h3&gt;
+
+&lt;p&gt;The competitive advantage in machine learning is increasingly moving to data. Some companies have proprietary datasets and will try to use it for their advantage. There are some problems though where independent players may be able to build useful datasets and sell them for profit. I expect a large number of small players benefitting from this initially, but ultimately the market will consolidate in a few big players. Somebody will offer a Dataset Appstore, make it easy to license and sell datasets, and make good profit on commissions. The datasets will be carefully designed, for example validation split will offer standard ways to evaluate models with respect to potential biases and adversarial scenarios.&lt;/p&gt;
+
+&lt;h3 id=&quot;prediction-2-split-into-model-manufacturers-and-users&quot;&gt;Prediction 2: Split into model manufacturers and users&lt;/h3&gt;
+
+&lt;p&gt;This is already happening – big research labs like Google, Meta or Amazon are pushing out new model architectures and pretrained models. We will likely see this trend continue, and I expect more differentiation in the approaches, methods and tooling for building new model architectures and pretrained models vs. using them to solve a downstream business problem.&lt;/p&gt;
+
+&lt;h3 id=&quot;prediction-3-standard-solutions-and-differentiation&quot;&gt;Prediction 3: Standard solutions and differentiation&lt;/h3&gt;
+
+&lt;p&gt;I initially thought we won't need that many data scientists outside of the big research labs, and the work will move to business subject matter experts. But thinking how web programming evolved, we didn't all move to WIX or Weebly. Where possible, standard solutions will emerge and become commoditized (we don't need all to develop another model to read invoices). Still, companies will want to compete and differentiate and will likely keep using (more) data scientists for this purpose. Data scientists will collaborate very closely with SMEs and are likely to find new ways or approaches to combine various data sources, frame problems, experiment to have a better performing model vs. competition. We will also have more models integrated into products and with other processes in enterprises.&lt;/p&gt;
+
+&lt;h3 id=&quot;prediction-4-machine-learning-platforms--tools&quot;&gt;Prediction 4: Machine Learning Platforms &amp;amp; Tools&lt;/h3&gt;
+
+&lt;p&gt;What will machine learning tooling landscape look like in several years?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;General purpose platforms&lt;/strong&gt;. Most companies will build on top of a general purpose platform, supporting the E2E lifecycle from data labelling through model training to deployment and monitoring. Big cloud vendors have an advantage here as they have the engineering bench to build and integrate all components and combine that with compute.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Specialized tools&lt;/strong&gt;. We will have competitors innovating on the edges of general purpose platforms and trying to grab a chunk of the space by offering a better, differentiated product. These tools will need to offer superior value and user experience, and at the same time integrate well with the underlying platforms. Given that looking at data is going to be a big trend for data scientists in my opinion, I expect many of these specialized tools to focus on data.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Research tools&lt;/strong&gt;. I think we're going to see a category of tools to support the research work happening in the big labs. These will require a strong engineering edge to meet special needs of bigger models and datasets and do it better than the big labs themselves.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dedicated apps for specific commodity tasks&lt;/strong&gt;. A lot of models will become a commodity. Whenever multiple companies try to solve a specific problem with data, there will be a supplier attempting to provide a general solution to that problem. It will collect data, build and test models, and offer a packaged solution solving problems such as interpreting invoices, understanding emails, analyzing product images etc.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;What do you think about these predictions? It's very likely I'm partially or completely wrong, and would love to hear different perspectives.&lt;/p&gt;</content><author><name></name></author><summary type="html">The Future of Machine Learning Tools</summary></entry><entry><title type="html">Topic Modeling in Python</title><link href="https://skok.ai/2021/05/27/Topic-Models-Introduction.html" rel="alternate" type="text/html" title="Topic Modeling in Python" /><published>2021-05-27T00:00:00-05:00</published><updated>2021-05-27T00:00:00-05:00</updated><id>https://skok.ai/2021/05/27/Topic-Models-Introduction</id><content type="html" xml:base="https://skok.ai/2021/05/27/Topic-Models-Introduction.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -474,10 +541,10 @@
 
 
 
-&lt;div id=&quot;98662cd0-840d-4238-aeed-b77ebad335f6&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;e55673a9-5bf1-4899-aed5-7ab1edea81ca&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#98662cd0-840d-4238-aeed-b77ebad335f6');
+var element = $('#e55673a9-5bf1-4899-aed5-7ab1edea81ca');
 
 (function(root) {
   function now() {
@@ -798,10 +865,10 @@ var element = $('#98662cd0-840d-4238-aeed-b77ebad335f6');
 
 
 
-&lt;div id=&quot;adb1f6fc-454a-46ec-a37e-fc0da48d2c05&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;5db7b2f5-d680-439e-84a7-e13b81b64fb9&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#adb1f6fc-454a-46ec-a37e-fc0da48d2c05');
+var element = $('#5db7b2f5-d680-439e-84a7-e13b81b64fb9');
 (function(root) {
   function embed_document(root) {
     
@@ -1400,10 +1467,10 @@ The waist is too high and the bottom too long. I could get away with it but I li
 
 
 
-&lt;div id=&quot;abac00c5-a3f0-4d51-af81-ee457c452711&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;995e4513-7235-4e6b-8c65-7107c210fb62&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#abac00c5-a3f0-4d51-af81-ee457c452711');
+var element = $('#995e4513-7235-4e6b-8c65-7107c210fb62');
 
 (function(root) {
   function now() {
@@ -1724,10 +1791,10 @@ var element = $('#abac00c5-a3f0-4d51-af81-ee457c452711');
 
 
 
-&lt;div id=&quot;6db05e98-c98d-48ee-8759-2d29afb4d63b&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;fcfe5795-b6fd-413b-90ac-806481cd7b2f&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#6db05e98-c98d-48ee-8759-2d29afb4d63b');
+var element = $('#fcfe5795-b6fd-413b-90ac-806481cd7b2f');
 (function(root) {
   function embed_document(root) {
     
@@ -2413,10 +2480,10 @@ OpenJDK 64-Bit Server VM (build 11.0.11+9-Ubuntu-0ubuntu2.18.04, mixed mode, sha
 
 
 
-&lt;div id=&quot;ba1d834b-abe0-4cbe-8c5c-713f8818de1b&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;7989b462-cb27-43f5-b849-955e16c17abd&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#ba1d834b-abe0-4cbe-8c5c-713f8818de1b');
+var element = $('#7989b462-cb27-43f5-b849-955e16c17abd');
 
 (function(root) {
   function now() {
@@ -2737,10 +2804,10 @@ var element = $('#ba1d834b-abe0-4cbe-8c5c-713f8818de1b');
 
 
 
-&lt;div id=&quot;373a97e7-5d99-46dd-81b7-6e903612ccbf&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;105d3ae9-9eac-4e11-9539-d58559bab129&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#373a97e7-5d99-46dd-81b7-6e903612ccbf');
+var element = $('#105d3ae9-9eac-4e11-9539-d58559bab129');
 (function(root) {
   function embed_document(root) {
     
@@ -4103,10 +4170,10 @@ Dataset csv downloaded and prepared to /root/.cache/huggingface/datasets/csv/def
 
 
 
-&lt;div id=&quot;6566068a-0e25-40d4-8efc-fc34506f9c52&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;1d44fc5f-708c-40a0-bbc5-cb5f757d210f&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;output_subarea output_javascript &quot;&gt;
 &lt;script type=&quot;text/javascript&quot;&gt;
-var element = $('#6566068a-0e25-40d4-8efc-fc34506f9c52');
+var element = $('#1d44fc5f-708c-40a0-bbc5-cb5f757d210f');
 
         (async () =&gt; {
             const url = await google.colab.kernel.proxyPort(6006, {&quot;cache&quot;: true});
